@@ -1,4 +1,3 @@
-# rubocop:todo all
 Mongoid.configure do
   target_version = "9.0"
 
